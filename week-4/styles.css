@@ -1,0 +1,514 @@
+* {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            color: #1C1917;
+            background: #FAFAF9;
+            line-height: 1.7;
+            font-size: 18px;
+        }
+        
+        /* HEADER SECTION - Hero Typography & Visual Hierarchy */
+        .hero {
+            background: linear-gradient(135deg, rgba(139, 92, 246, 0.95) 0%, rgba(107, 33, 168, 0.9) 100%),
+                        url('data:image/svg+xml,<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg"><rect width="100" height="100" fill="%238B5CF6"/><circle cx="50" cy="50" r="30" fill="%23EC4899" opacity="0.1"/></svg>');
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 80px 20px;
+            position: relative;
+        }
+        
+        .hero-image {
+            width: 320px;
+            height: 320px;
+            border-radius: 50%;
+            border: 8px solid #F59E0B;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            background-color: #E5E5E5;
+            background-image: url("file:///C:/Users/kaden/Downloads/download (6).jpg");
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            margin-bottom: 40px;
+            object-fit: cover;
+        }
+        
+        .hero h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 72px;
+            font-weight: 900;
+            color: #FAFAF9;
+            letter-spacing: -0.02em;
+            line-height: 1.2;
+            margin-bottom: 20px;
+            text-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+        }
+        
+        .hero-subtitle {
+            font-family: 'Playfair Display', serif;
+            font-size: 36px;
+            font-style: italic;
+            color: #FEF3C7;
+            margin-bottom: 16px;
+            font-weight: 400;
+        }
+        
+        .hero-dates {
+            font-family: 'Inter', sans-serif;
+            font-size: 24px;
+            color: #F59E0B;
+            font-weight: 600;
+            letter-spacing: 0.05em;
+        }
+        
+        /* CONTAINER & SPACING SYSTEM */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 40px;
+        }
+        
+        .section {
+            padding: 100px 0;
+        }
+        
+        .section-alt {
+            background: #FEF3C7;
+        }
+        
+        .section-dark {
+            background: #6B21A8;
+            color: #FAFAF9;
+        }
+        
+        /* TYPOGRAPHY CLASSES */
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            font-weight: 700;
+            color: #6B21A8;
+            margin-bottom: 40px;
+            line-height: 1.2;
+            text-align: center;
+        }
+        
+        h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 48px;
+            font-weight: 700;
+            color: #EC4899;
+            margin-bottom: 20px;
+            line-height: 1.2;
+        }
+        
+        h4 {
+            font-family: 'Inter', sans-serif;
+            font-size: 24px;
+            font-weight: 600;
+            color: #8B5CF6;
+            margin-bottom: 12px;
+        }
+        
+        p {
+            font-size: 24px;
+            line-height: 1.7;
+            color: #57534E;
+            margin-bottom: 20px;
+        }
+        
+        /* INTRO SECTION */
+        .intro {
+            text-align: center;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        
+        .intro p {
+            font-size: 20px;
+            color: #1C1917;
+            line-height: 1.8;
+        }
+        
+        .intro .highlight {
+            background: linear-gradient(180deg, transparent 60%, #FEF3C7 60%);
+            padding: 0 4px;
+            font-weight: 600;
+        }
+        
+        /* IMAGE TREATMENT - Featured Photo Section */
+        .featured-image-section {
+            display: flex;
+            gap: 60px;
+            align-items: center;
+            margin-top: 60px;
+            
+        }
+        
+        .featured-image-wrapper {
+            flex: 1;
+            position: relative;
+            
+        }
+        
+        .featured-image {
+            width: 100%;
+            height: 600px;
+            display: block;
+            object-fit: cover;
+            border: 12px solid #EC4899;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15);
+            border-radius: 8px;
+        }
+        
+        .image-caption {
+            font-size: 14px;
+            font-style: italic;
+            color: #78716C;
+            margin-top: 16px;
+            text-align: center;
+            line-height: 1.5;
+        }
+        
+        .featured-content {
+            flex: 1;
+        }
+        
+        /* TIMELINE SECTION - Biography with Visual Markers */
+        .timeline {
+            position: relative;
+            padding-left: 60px;
+        }
+        
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 20px;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(180deg, #8B5CF6 0%, #EC4899 100%);
+        }
+        
+        .timeline-item {
+            position: relative;
+            margin-bottom: 60px;
+            padding-left: 40px;
+        }
+        
+        .timeline-marker {
+            position: absolute;
+            left: -40px;
+            top: 0;
+            width: 48px;
+            height: 48px;
+            background: #F59E0B;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            color: #1C1917;
+            font-size: 16px;
+            box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3);
+            z-index: 1;
+        }
+        
+        .timeline-year {
+            font-family: 'Playfair Display', serif;
+            font-size: 28px;
+            font-weight: 700;
+            color: #6B21A8;
+            margin-bottom: 12px;
+        }
+        
+        .timeline-content {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+        
+        .timeline-content h4 {
+            color: #1C1917;
+            margin-bottom: 12px;
+        }
+        
+        .timeline-content p {
+            margin-bottom: 0;
+        }
+        
+        /* QUOTE DISPLAY - Special Typography Treatment */
+        .quote-section {
+            text-align: center;
+            padding: 120px 40px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .quote-section::before {
+            content: '"';
+            position: absolute;
+            top: -40px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: 'Playfair Display', serif;
+            font-size: 300px;
+            color: rgba(139, 92, 246, 0.1);
+            line-height: 1;
+        }
+        
+        blockquote {
+            font-family: 'Playfair Display', serif;
+            font-size: 42px;
+            font-style: italic;
+            color: #FAFAF9;
+            line-height: 1.4;
+            max-width: 900px;
+            margin: 0 auto 30px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .quote-attribution {
+            font-family: 'Inter', sans-serif;
+            font-size: 18px;
+            color: #FEF3C7;
+            font-weight: 600;
+            font-style: normal;
+        }
+        
+        .quote-attribution::before {
+            content: '— ';
+        }
+        
+        /* LEGACY SECTION - Grid Layout */
+        .legacy-grid {
+            display: grid;
+            grid-template-columns: 1fr; /* single column layout */
+            gap: 24px;
+            margin-top: 60px;
+            align-items: start;
+            position: relative; /* needed for background decoration */
+        }
+
+        /* Make each legacy card a horizontal box: icon on the left, content on the right */
+        .legacy-card {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            background: #3B82F6;
+            padding: 24px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative; /* keep content above the background */
+            z-index: 1;
+        }
+        
+        .legacy-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(139, 92, 246, 0.2);
+        }
+        
+        .legacy-icon {
+            width: 72px;
+            height: 72px;
+            min-width: 72px;
+            background: linear-gradient(135deg, #8B5CF6 0%, #EC4899 100%);
+            color: #FAFAF9; /* make the icon glyph/text white */
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 56px;
+        }
+
+        /* make only the textual content inside legacy cards white */
+        .legacy-card p,
+        .legacy-card h4,
+        .legacy-card h3,
+        .legacy-card a,
+        .legacy-card li {
+            color: #FAFAF9;
+        }
+
+        /* decorative background image behind the entire legacy grid */
+        .legacy-grid::before {
+            content: '';
+            position: absolute;
+            /* place the artwork behind the cards */
+            z-index: 0;
+            left: 0;
+            right: 0;
+            top: -80px; /* pull artwork up so circles peek over the cards */
+            bottom: -40px;
+            /* decorative SVG background - legacy-bubbles.svg placed alongside this CSS */
+            background-image: url('legacy-bubbles.svg');
+            background-repeat: no-repeat;
+            /* scale up the artwork so circles are larger */
+            background-size: 160% auto;
+            background-position: center bottom;
+            opacity: 0.85;
+            pointer-events: none;
+            filter: blur(8px);
+            transform-origin: center;
+        }
+
+        /* ensure cards sit above the decorative artwork */
+        .legacy-card {
+            z-index: 2; /* higher than the background pseudo-element */
+        }
+
+        /* ensure card children (icon + text) sit above the card surface */
+        .legacy-card > * {
+            position: relative;
+            z-index: 3;
+        }
+
+        
+        /* CTA / LINKS - Button Styling with Hover States */
+        .cta-section {
+            text-align: center;
+            padding: 80px 40px;
+            background: white;
+        }
+        
+        .cta-section h2 {
+            margin-bottom: 30px;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 16px 40px;
+            font-family: 'Inter', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+        }
+        
+        .btn-primary {
+            background: #F59E0B;
+            color: #1C1917;
+            box-shadow: 0 4px 20px rgba(245, 158, 11, 0.3);
+        }
+        
+        .btn-primary:hover {
+            background: #D97706;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px rgba(245, 158, 11, 0.4);
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            color: #8B5CF6;
+            border: 2px solid #8B5CF6;
+        }
+        
+        .btn-secondary:hover {
+            background: #8B5CF6;
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        .text-link {
+            color: #3B82F6;
+            text-decoration: none;
+            font-weight: 600;
+            border-bottom: 2px solid transparent;
+            transition: border-color 0.3s ease;
+        }
+        
+        .text-link:hover {
+            border-bottom-color: #3B82F6;
+        }
+        
+        /* FOOTER */
+        .footer {
+            background: #1C1917;
+            color: #FAFAF9;
+            text-align: center;
+            padding: 60px 40px;
+        }
+        
+        .footer p {
+            color: #A8A29E;
+            font-size: 16px;
+        }
+        
+        /* VISUAL DIVIDERS */
+        .divider {
+            width: 250px;
+            height: 16px;
+            background: linear-gradient(90deg, #8B5CF6 0%, #EC4899 100%);
+            margin: 60px auto;
+            border-radius: 4px;
+        }
+        
+        /* RESPONSIVE DESIGN */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 48px;
+            }
+            
+            .hero-subtitle {
+                font-size: 24px;
+            }
+            
+            .hero-image {
+                width: 240px;
+                height: 240px;
+            }
+            
+            h2 {
+                font-size: 36px;
+            }
+            
+            h3 {
+                font-size: 24px;
+            }
+            
+            .featured-image-section {
+                flex-direction: column;
+            }
+            
+            .legacy-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            blockquote {
+                font-size: 28px;
+            }
+            
+            .timeline {
+                padding-left: 40px;
+            }
+            
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .btn {
+                width: 100%;
+                max-width: 300px;
+            }
+        }
