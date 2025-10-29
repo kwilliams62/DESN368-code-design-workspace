@@ -1,4 +1,6 @@
-* {
+
+        
+        * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -33,7 +35,8 @@
             border: 8px solid #F59E0B;
             box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
             background-color: #E5E5E5;
-            background-image: url("file:///C:/Users/kaden/Downloads/download (6).jpg");
+            /* use a deployable relative path (save the image as images/hero-download-6.jpg) */
+            background-image: url("images/hero-download-6.jpg");
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -350,8 +353,8 @@
             right: 0;
             top: -80px; /* pull artwork up so circles peek over the cards */
             bottom: -40px;
-            /* decorative SVG background - legacy-bubbles.svg placed alongside this CSS */
-            background-image: url('legacy-bubbles.svg');
+            /* decorative SVG background - placed in the images/ folder */
+            background-image: url('images/legacy-bubbles.svg');
             background-repeat: no-repeat;
             /* scale up the artwork so circles are larger */
             background-size: 160% auto;
