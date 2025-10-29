@@ -1,114 +1,95 @@
-# 🎉 Welcome to DESN368 CODE + DESIGN ONE!
-Travis Masingale 09/24/25
+# DESN368 - Web Design 1 Portfolio
 
-**Welcome to DESN368 Web Design!**  
-You're viewing the instructor's course repository(repo). This serves as your reference and source for all course materials.  
+## About This Repository
 
-**Important:** You'll fork this repository to create your own personal workspace. Think of it like this:  
-- **This repo** = Course textbook (read-only, updated weekly)  
-- **Your fork** = Your notebook (where you do all your work)  
+This repository documents my learning journey in Web Design 1 (DESN368) during [Quarter/Year]. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
 
-**You're in the right place!** This is the DESN368 course repository maintained by your instructor.  
+## Course Overview
 
-**What happens next:**  
-1. Fork this repository (creating your own copy)  
-2. Your fork becomes your personal workspace  
-3. Each week, you’ll sync updates from here  
-4. By quarter’s end, your fork transforms into a portfolio  
-
-👉 Ready to create your workspace? Click **"Fork"** in the top right! →
+- **Instructor:** Travis Masingale
+- **Institution:** [Your School]
+- **Term:** [Term/Year]
 
 ---
 
-## 🚀 **NEXT STEPS - START HERE!**
-### **Step 1: Complete Your Tool Setup**
-👉 **Navigate to the setup folder** → **Click on `ONBOARDING-CHECKLIST.md`**  
-*You can find the setup folder in the file navigator to your right, or [click here to go directly to your checklist](setup/ONBOARDING-CHECKLIST.md).*
+## Week 1 - Introduction to the Internet and the Web
 
-### **Step 2: Update This README**
-As you complete each tool setup, **come back and update the "My Toolkit" section below** with your actual profile links.
+**Topics Covered:**
+- What is the Internet vs. the World Wide Web
+- How browsers work
+- Understanding IP addresses, DNS, and URLs
+- History of the web
 
----
+**Key Takeaways:**
+[Write 1-2 sentences about what you learned or found most interesting]
 
-## 👤 **Student Information**
-**Instructor:** Professor Travis Masingale  
-**Email:** tmasingale@ewu.edu  
-**Course:** DESN368 CODE + DESIGN 1  
-**Semester:** Fall 2025  
+**Files:**
+- [Link to specific files or note what's in the week-1 folder]
 
 ---
 
-## 🛠️ **My Toolkit**
-*Update these links as you complete each tool setup:*
-- **GitHub Profile:**  ⏳
-- **Workspace (Forked Repo):** (https://github.com/kwilliams62/desn368-KadenWilliams) ⏳
-- **Figma:** [kwilliams62] ⏳
-- **CodePen:** [https://codepen.io/kwilliams62] ⏳
-- **LiveCode:** [https://livecodes.io/] ⏳
-- **GitHub Student Pack:** [Pending] ⏳  
+## Week 2 - [Topic Title]
 
-### **How to Update Your Toolkit:**
-1. **Click the pencil icon** (✏️) at the top right of this README  
-2. Replace the placeholder text with your actual profile information:  
-   - Change `[Add your forked repo link here]` → `https://github.com/YourUsername/DESN368-code-design-workspace`  
-   - Change `[Add your Figma username here]` → your Figma username  
-   - Change `[Add your CodePen profile URL here]` → `https://codepen.io/YourUsername`   
-   - Change `[Confirm approval status here]` → `Approved` or `Pending` for GitHub Pack  
-3. Scroll to bottom and click **"Commit changes"**  
-4. Repeat this process each time you complete a new tool setup  
+**Topics Covered:**
+- [List main topics]
+
+**Key Takeaways:**
+[Write 1-2 sentences about what you learned or found most interesting]
+
+**Projects/Exercises:**
+- [Describe what you built or practiced]
+
+**Files:**
+- [Link to specific files or note what's in the week-2 folder]
 
 ---
 
-## 🎯 **Course Progress**
-*Check off assignments as you complete them:*  
+## Week 3 - [Topic Title]
 
-- [X] **Week 1:** S3tup & 0nb04rd1ng  
-- [ ] **Week 2:** Th3 F1r5t T4g  
-- [ ] **Week 3:** D0cum3nt 4rch1t3ctur3  
-- [ ] **Week 4:** Th3 C4sc4d3 B3g1n5  
-- [ ] **Week 5:** F0rm5 & 1nput5  
-- [ ] **Week 6:** Fl3xb0x M45t3ry  
-- [ ] **Week 7:** Tr1but3 P4g3  
-- [ ] **Week 8:** Gr1d Sy5t3m5  
-- [ ] **Week 9:** Pr0duct L4nd1ng  
-- [ ] **Week 10:** P0rtf0l10 Sy5t3m  
-- [ ] **Week 11:** Sh1p 1t  
+**Topics Covered:**
+- [List main topics]
 
----
+**Key Takeaways:**
+[Write 1-2 sentences about what you learned or found most interesting]
 
-## 📁 **Repository Structure**
-Here’s what’s in your portfolio repository:
-- **`/setup/`** - 📋 Tool setup guides and verification checklist  
-- **`/week-0/`** - 📝 Week 0 assignments and projects  
-- **`/projects/`** - 🎨 Major course projects and portfolio pieces  
-- **`README.md`** - 📖 This file - your portfolio home page  
+**Projects/Exercises:**
+- [Describe what you built or practiced]
+
+**Files:**
+- [Link to specific files or note what's in the week-3 folder]
 
 ---
 
-## 🔗 **Course Resources**
-### **Primary Course Hub**
-- **📌 Milanote Course Home** - [Course board with assignments & resources](https://app.milanote.com/your-course-board-id)
+## Week 4 - Repository Organization & Documentation
 
-### **Learning Platforms**
-- **📚 Canvas LMS** - [Grades and official submissions](https://canvas.ewu.edu)  
-- **🎨 Figma Team** - [Design projects]([https://www.figma.com/files/team/1487582992593000920/](https://www.figma.com/team_invite/redeem/Ejdjv4RKPn68wmYmoD23Yf)  
+**Topics Covered:**
+- Repository organization
+- Writing effective documentation
+- Markdown formatting
 
-### **Practice & Reference**
-- **📖 Course Syllabus** - [Course policies and schedule](https://desn368-f25.netlify.app/syllabus/)  
-  
+**Key Takeaways:**
+[Write 1-2 sentences about what you learned]
 
-### **Support**
-- **✉️ Instructor Email:** [tmasingale@ewu.edu](mailto:tmasingale@ewu.edu)  
-- **🏢 Office Hours:** Mon/Wed 1–2:30pm, Thurs 1:00–2p  
-- **📍 Location:** Catalyst Room 167  
+**Tasks Completed:**
+- ✓ Organized repo with week folders
+- ✓ Archived original README
+- ✓ Created new portfolio-style README
 
 ---
 
-## 🆘 **Need Help?**
-- **Stuck on setup?** Check the [troubleshooting guides](setup/) in your setup folder.  
-- **Technical issues?** Email your instructor or visit office hours.  
-- **Want to see examples?** Browse other students' public repositories for inspiration.  
+## Resources
+
+- [Link to course materials]
+- [Link to helpful websites or tutorials you found]
+- [Any other resources you want to remember]
+
+## Tools Used
+
+- VS Code
+- Firefox Developer Edition
+- GitHub
+- [Other tools]
 
 ---
 
-**🎯 Ready to start? [Go to your setup checklist now!](setup/ONBOARDING-CHECKLIST.md)**
+*This repository is part of my coursework for DESN368 - Web Design 1*
