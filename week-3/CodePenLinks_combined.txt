@@ -1,0 +1,14 @@
+Combined CodePen links (local + remote)
+
+# Local CodePenLinks:
+https://codepen.io/kwilliams62/pen/WbrXQMP
+https://codepen.io/kwilliams62/pen/qEbVOKr
+https://codepen.io/kwilliams62/pen/XJXzmPd
+https://codepen.io/kwilliams62/pen/OPMOyaB
+https://codepen.io/kwilliams62/pen/emJepXJ
+# Remote CodePen links (from remote-week-3.txt):
+https://codepen.io/kwilliams62/pen/WbrXQMP
+https://codepen.io/kwilliams62/pen/qEbVOKr
+https://codepen.io/kwilliams62/pen/XJXzmPd
+https://codepen.io/kwilliams62/pen/OPMOyaB
+https://codepen.io/kwilliams62/pen/emJepXJ
