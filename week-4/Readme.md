@@ -1,6 +1,6 @@
 ## Project 1: Tribute Page
 
-**Subject:** [Kaden Williams]
+**Subject:** Marsha P. Johnson
 
 **Links:**
 - [Figma Design](https://www.figma.com/design/xFmj9igSQFatu3RiyTqPcb/Tribute-Page?node-id=0-1&p=f&t=CjkOH2vdURX35nHP-0)
