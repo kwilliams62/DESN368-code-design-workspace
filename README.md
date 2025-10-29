@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository documents my learning journey in Web Design 1 (DESN368) during [Fall Quarter 2025]. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
+This repository documents my learning journey in Web Design 1 (DESN368) during Fall Quarter 2025. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
 
 ## Course Overview
 
