@@ -7,8 +7,8 @@ This repository documents my learning journey in Web Design 1 (DESN368) during F
 ## Course Overview
 
 - **Instructor:** Travis Masingale
-- **Institution:** [Eastern Washington University]
-- **Term:** [Fall Quarter 2025]
+- **Institution:** Eastern Washington University
+- **Term:** Fall Quarter 2025
 
 ---
 
@@ -24,7 +24,7 @@ This repository documents my learning journey in Web Design 1 (DESN368) during F
 [Write 1-2 sentences about what you learned or found most interesting]
 
 **Files:**
-- [https://github.com/kwilliams62/DESN368-code-design-workspace/tree/main/week-1]
+- https://github.com/kwilliams62/DESN368-code-design-workspace/tree/main/week-1
 
 ---
 
@@ -40,7 +40,7 @@ This repository documents my learning journey in Web Design 1 (DESN368) during F
 - [Describe what you built or practiced]
 
 **Files:**
-- [Link to specific files or note what's in the week-2 folder]
+- https://github.com/kwilliams62/DESN368-code-design-workspace/tree/main/week-2
 
 ---
 
@@ -56,7 +56,7 @@ This repository documents my learning journey in Web Design 1 (DESN368) during F
 - [Describe what you built or practiced]
 
 **Files:**
-- [Link to specific files or note what's in the week-3 folder]
+- https://github.com/kwilliams62/DESN368-code-design-workspace/tree/main/week-3
 
 ---
 
