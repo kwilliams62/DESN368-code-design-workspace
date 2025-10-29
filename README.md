@@ -2,13 +2,13 @@
 
 ## About This Repository
 
-This repository documents my learning journey in Web Design 1 (DESN368) during [Quarter/Year]. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
+This repository documents my learning journey in Web Design 1 (DESN368) during [Fall Quarter 2025]. Here you'll find my projects, experiments, and exercises as I learn HTML, CSS, and the fundamentals of web design.
 
 ## Course Overview
 
 - **Instructor:** Travis Masingale
-- **Institution:** [Your School]
-- **Term:** [Term/Year]
+- **Institution:** [Eastern Washington University]
+- **Term:** [Fall Quarter 2025]
 
 ---
 
@@ -24,7 +24,7 @@ This repository documents my learning journey in Web Design 1 (DESN368) during [
 [Write 1-2 sentences about what you learned or found most interesting]
 
 **Files:**
-- [Link to specific files or note what's in the week-1 folder]
+- [https://github.com/kwilliams62/DESN368-code-design-workspace/tree/main/week-1]
 
 ---
 
