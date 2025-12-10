@@ -10,14 +10,14 @@ Instructor: Travis Masingale
 
 This repository documents my journey through DESN368, where I learned to build for the web with HTML and CSS—understanding how the web actually works at the source level.
 
-- **[View Live Portfolio](https://[your-username].github.io/[your-repo-name]/)**
-- **[View Learning Log](https://[your-username].github.io/[your-repo-name]/learning-log.html)** — Weekly progress & exercises
+- **[View Live Portfolio](https://kwilliams62.github.io/DESN368-code-design-workspace/Portfolio/imgs/Portfilo-site.html)**
+- **[View Learning Log](https://kwilliams62.github.io/DESN368-code-design-workspace/)** — Weekly progress & exercises
 
 ---
 
 ## Design Direction
 
-For my portfolio, I pursued a **[describe your vibe in 2-3 words]** aesthetic.
+For my portfolio, I pursued a eathry, geomtric, and chill aesthetic.
 
 - **Header Font:** [Font Name]
 - **Body Font:** [Font Name]
