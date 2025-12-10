@@ -36,16 +36,16 @@ A recipe page showcasing semantic HTML and thoughtful typography. Features acces
 [View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-2/recipe-site/StyleRecipe.html)
 
 **Tribute Site**  
-[1-sentence description]  
-[View Project](./week-XX/tribute/)
-
-**Field Guide**  
-An homage to an influential figure, demonstrating layout skills and visual hierarchy. Built with clean HTML and CSS Grid.  
+An homage to an influential figure, demonstrating layout skills and visual hierarchy. Built with clean HTML and CSS Grid.   
 [View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-4/tribute-site.html)
 
-**Product Landing Page**  
-An informative guide exploring the Super Smash Bros. game with rich content organization. Features responsive design and structured information architecture. 
+**Field Guide**  
+An informative guide exploring the Super Smash Bros. game with rich content organization. Features responsive design and structured information architecture.
 [View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-6/super-smash-bros.html)
+
+**Product Landing Page**  
+A compelling marketing page with call-to-action elements and modern design patterns. Demonstrates Flexbox mastery and interactive CSS transitions. 
+[View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-9/productpage.html)
 
 ---
 
