@@ -152,7 +152,7 @@ nav a:active {
 /* Header/Hero Section */
 header {
     /* layered: subtle gradient for legibility + user-supplied hero image */
-    background-image: linear-gradient(135deg, rgba(61,85,72,0.85) 0%, rgba(71,116,91,0.6) 50%, rgba(107,163,132,0.55) 100%), url("file:///C:/Users/kaden/Downloads/9302740.jpg");
+    background-image: linear-gradient(135deg, rgba(61,85,72,0.85) 0%, rgba(71,116,91,0.6) 50%, rgba(107,163,132,0.55) 100%), url("9302740.jpg");
     background-size: cover;
     background-position: center;
     background-blend-mode: overlay;
