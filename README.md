@@ -19,33 +19,33 @@ This repository documents my journey through DESN368, where I learned to build f
 
 For my portfolio, I pursued a eathry, geomtric, and chill aesthetic.
 
-- **Header Font:** [Font Name]
-- **Body Font:** [Font Name]
-- **Primary Color:** [Hex Code]
-- **Accent Color:** [Hex Code]
-- **Background:** [Hex Code]
+- **Header Font:** Limelight
+- **Body Font:** Unbounced
+- **Primary Color:** #47745B
+- **Accent Color:** #6B88A3
+- **Background:** #6BA384
 
-**[View Figma File](https://www.figma.com/file/[your-figma-link])**
+**[View Figma File](https://www.figma.com/design/bSEE41cQkaDltoYT84zEAd/desn368-moods-vibe-Williams-f25?node-id=0-1&t=M1HukSyWnq6CBjET-1)**
 
 ---
 
 ## Featured Projects
 
 **The Recipe**  
-[1-sentence description]  
-[View Project](./week-XX/recipe/)
+A recipe page showcasing semantic HTML and thoughtful typography. Features accessible content structure and responsive layout.
+[View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-2/recipe-site/StyleRecipe.html)
 
 **Tribute Site**  
 [1-sentence description]  
 [View Project](./week-XX/tribute/)
 
 **Field Guide**  
-[1-sentence description]  
-[View Project](./week-XX/field-guide/)
+An homage to an influential figure, demonstrating layout skills and visual hierarchy. Built with clean HTML and CSS Grid.  
+[View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-4/tribute-site.html)
 
 **Product Landing Page**  
-[1-sentence description]  
-[View Project](./week-XX/landing-page/)
+An informative guide exploring the Super Smash Bros. game with rich content organization. Features responsive design and structured information architecture. 
+[View Project](https://kwilliams62.github.io/DESN368-code-design-workspace/week-6/super-smash-bros.html)
 
 ---
 
@@ -62,29 +62,28 @@ For my portfolio, I pursued a eathry, geomtric, and chill aesthetic.
 
 ## Archive
 
-- **[Course Log](./archive/course-log.md)** — Detailed weekly documentation
-- **[Learning Log](./learning-log.html)** — Index of all exercises and projects
+- **[Course Log](https://kwilliams62.github.io/DESN368-code-design-workspace/)** — Detailed weekly documentation
+- **[Learning Log](https://kwilliams62.github.io/DESN368-code-design-workspace/)** — Index of all exercises and projects
 
 ---
 
 ## Credits & Citations
 
 **Assets**
-- [List any images, icons, or assets you didn't create]
+- 9302740.jpg, Cookie.jpg, images(11).jpg, Marsha-P.-Johnson-Portrait-QueerAF--Trans--History-Week-and-Illustrator-Sunday-Avanti---CC-BY-NC-ND-4.0.png, super-smash-bros-review-image-1024x587.jpg, w22.png 
 
 **Tutorials & Resources**
-- [Any tutorials or Stack Overflow threads that helped]
+- CodePen tutorials
 
 **AI Assistance**
-- [If used: "Used Claude for debugging CSS grid in Week 6"]
-- [If none: "No AI assistance used"]
+- Use Claude and ChatGPT for debuggin, explanations, and help. 
 
 ---
 
 ## Reflection
 
-[→ Read Full Reflection on Portfolio Site](https://[your-username].github.io/[your-repo-name]/reflection.html)
+[→ Read Full Reflection on Portfolio Site](https://kwilliams62.github.io/DESN368-code-design-workspace/Reflection.md)
 
 ---
 
-© 2025 [Your Name]. Built for DESN368 at Eastern Washington University.
+© 2025 Kaden Williams. Built for DESN368 at Eastern Washington University.
